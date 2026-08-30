@@ -37,5 +37,3 @@ Code → Create → Secure → Repeat. ⚡
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://github.com/adiberlin/adiberlin/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" width="100%"/>
-
