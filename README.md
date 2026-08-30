@@ -36,3 +36,9 @@ Code → Create → Secure → Repeat. ⚡
 [![](https://komarev.com/ghpvc/?username=adiberlin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>🐍 Contribution Activity</h2>
+
+<img src="https://github.com/adiberlin/adiberlin/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" width="100%"/>
+## 🐍 Contribution Activity
+
+![Snake animation](https://github.com/adiberlin/adiberlin/blob/output/github-contribution-grid-snake2.svg)
