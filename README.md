@@ -13,7 +13,7 @@ I enjoy taking an idea from “what if?” → working product.
 
 Code → Create → Secure → Repeat. ⚡
 # 💫 About Me:
-🔭 I’m currently working on AI-powered applications, web projects & cybersecurity tools<br>🤝 I’m looking to collaborate on Web Development, AI/ML & Cybersecurity projects<br>🆘 I’m looking for help with Advanced AI, Cybersecurity & Full-Stack Development<br>🌱 I’m currently learning React, TypeScript, Python, AI/ML & Cybersecurity<br>💬 Ask me about Web Development, AI, Python, Cybersecurity & my projects<br>⚡ Fun fact: I love turning random ideas into real-world projects 🚀
+🔭 I’m currently working on AI-powered applications, web projects & cybersecurity tools<br>🤝 I’m looking to collaborate on Web Development, AI/ML & Cybersecurity projects<br>🆘 I’m looking for help with Advanced AI, Cybersecurity & Full-Stack Development<br>🌱 I’m currently learning React, TypeScript, Python, AI/ML<br>💬 Ask me about Web Development, AI, Python, Cybersecurity & my projects<br>⚡ Fun fact: I love turning random ideas into real-world projects 🚀
 
 
 ## 🌐 Socials:
