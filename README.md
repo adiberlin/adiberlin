@@ -1,7 +1,7 @@
 Hi, I'm Aditya Kumar 👋
 
 💻 Computer Science Student & Aspiring Software Developer
-🚀 Building real-world projects with React, TypeScript, JavaScript, Python & AI
+🚀 Building real-world projects with React, JavaScript, Python & AI
 🛡️ Exploring Cybersecurity, Ethical Hacking & Secure Software Development
 🎯 Interested in Full-Stack Development, AI/ML & Cybersecurity
 
