@@ -7,7 +7,7 @@ Hi, I'm Aditya Kumar 👋
 
 I enjoy taking an idea from “what if?” → working product.
 
-🧠 Learning. Building. Securing. Improving
+🧠 Learning. Building. Securing. Improving.
 
 🌱 Currently exploring new technologies and turning ideas into practical solutions.
 
